@@ -1,4 +1,4 @@
-# Database Design for AZ Hopital
+# Database Design for AZ Hospital
 
 ## Table of content
 - [Project overview](#project-overview)
